@@ -1,0 +1,519 @@
+EVTNAME90;;;;;;;;;;;;;x
+CSU;United Provinces of Cono Sur;Provinces Unies d'Cono Sur;Vereinigte Provinzen von Cono Sur;;Provincias Unidas del Cono Sur;;;;;;;;x
+CSU_ADJ;Cono Sur;Cono Sur;Cono Sur;;Cono Sur;;;;;;;;x
+CSU_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+CSU_liberal_2;Partido Unitario;Partido Unitario;Partido Unitario;;Partido Unitario;;;;;;;;x
+CSU_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+CSU_conservative_2;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;x
+CSU_conservative_3;Autonomista Nacional;Autonomista Nacional;Autonomista Nacional;;Autonomista Nacional;;;;;;;;x
+CSU_conservative_4;Partido Autonomista;Partido Autonomista;Partido Autonomista;;Partido Autonomista;;;;;;;;x
+CSU_liberal_3;Unión Civica;Unión Civica;Unión Civica;;Unión Cívica;;;;;;;;x
+CSU_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+CSU_conservative_5;Unión Civica Nacional;Unión Civica Nacional;Unión Civica Nacional;;Unión Cívica Nacional;;;;;;;;x
+CSU_liberal_4;Unión Civica Radical;Unión Civica Radical;Unión Civica Radical;;Unión Cívica Radical;;;;;;;;x
+CSU_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+CSU_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+CSU_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+CSU_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+IDN;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;;x
+IDN_ADJ;Indonesian;Indonésien;Indonesisch;;Indonesia;;;;;;;;x
+IDN_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+IDN_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+IDN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+IDN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+IDN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+IDN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+IDN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+OYO;Oyo Empire;Empire d'Oyo;Oyo Reich;;Imperio Oyo;;;;;;;;x
+OYO_ADJ;Oyo;Oyo;Oyo;;Oyo;;;;;;;;x
+OYO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+OYO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+OYO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+OYO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+OYO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+OYO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+OYO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+ASH;Kingdom of Ashanti;Royaume d'Ashanti;Königreich Ashanti;;Reino de Ashanti;;;;;;;;x
+ASH_ADJ;Ashantian;Ashanti;Ashanti;;Ashantina;;;;;;;;x
+ASH_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+ASH_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+ASH_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+ASH_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+ASH_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+ASH_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+ASH_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+DAH;Kingdom of Dahomey;Royaume d'Dahomey;Königreich Dahomey;;Reino de Dahomey;;;;;;;;x
+DAH_ADJ;Dahomey;Dahomey;Dahomey;;Dahomey;;;;;;;;x
+DAH_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+DAH_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+DAH_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+DAH_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+DAH_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+DAH_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+DAH_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BAM;Bambara Empire;Empire Bambara;Bambara Reich;;Imperio Bambara;;;;;;;;x
+BAM_ADJ;Bambaran;Bambara;Bambara;;Bambara;;;;;;;;x
+BAM_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BAM_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BAM_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BAM_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BAM_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BAM_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BAM_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+TUK;Tukulor Empire;Empire d'Toucouleur;Toucouleur Reich;;Imperio Tuculor;;;;;;;;x
+TUK_ADJ;Tukulor;Toucouleur;Toucouleur;;Tuculor;;;;;;;;x
+TUK_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+TUK_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+TUK_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+TUK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+TUK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+TUK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+TUK_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MAS;Massina Empire;Empire d'Massina;Massina Reich;;Imperio Masina;;;;;;;;x
+MAS_ADJ;Massinean;Massina;Massina;;Masinea;;;;;;;;x
+MAS_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+MAS_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+MAS_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+MAS_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+MAS_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+MAS_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+MAS_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+ASA;Aussa;Aussa;Aussa;;Aussa;;;;;;;;x
+ASA_ADJ;Aussan;Aussa;Aussa;;Aussa;;;;;;;;x
+ASA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+ASA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+ASA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+ASA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+ASA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+ASA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+ASA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BEN;Benin Kingdom;Royaume d'Benin;Königreich Benin;;Reino de Benín;;;;;;;;x
+BEN_ADJ;Benin;Benin;Benin;;Benín;;;;;;;;x
+BEN_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BEN_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BEN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BEN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BEN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BEN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BEN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BOI;Boina;Boina;Boina;;Boina;;;;;;;;x
+BOI_ADJ;Boinean;Boina;Boina;;Boinense;;;;;;;;x
+BOI_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BOI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BOI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BOI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BOI_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BOI_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BOI_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+FJA;Futa Jallon;Fouta Djallon;Fouta Djallon;;Futa Yallón;;;;;;;;x
+FJA_ADJ;Jallonean;Djallon;Djallon;;Yallonense;;;;;;;;x
+FJA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+FJA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+FJA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+FJA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+FJA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+FJA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+FJA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+FTO;Futa Toro;Fouta Toro;Fouta Foto;;Futa Toro;;;;;;;;x
+FTO_ADJ;Torean;Toro;Toro;;Torense;;;;;;;;x
+FTO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+FTO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+FTO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+FTO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+FTO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+FTO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+FTO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+GEL;Geledi;Geledi;Geledi;;Geledi;;;;;;;;x
+GEL_ADJ;Geledinean;Geledi;Geledi;;Geledi;;;;;;;;x
+GEL_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+GEL_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+GEL_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+GEL_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+GEL_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+GEL_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+GEL_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+HAR;Harar;Harar;Harar;;Harar;;;;;;;;x
+HAR_ADJ;Harar;Harar;Harar;;Harar;;;;;;;;x
+HAR_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+HAR_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+HAR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+HAR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+HAR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+HAR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+HAR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BOR;Bornu Empire;Empire d'Bornu;Bornu Reich;;Imperio de Bornú;;;;;;;;x
+BOR_ADJ;Bornese;Bornu;Bornu;;Bornense;;;;;;;;x
+BOR_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BOR_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BOR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BOR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BOR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BOR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BOR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+KON;Kong;Kong;Kong;;Kong;;;;;;;;x
+KON_ADJ;Kong;Kong;Kong;;Kong;;;;;;;;x
+KON_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+KON_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+KON_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+KON_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+KON_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+KON_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+KON_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MAJ;Majeerteen Sultanate;Majeerteen Sultanat;Majeerteen Sultanat;;Sultanato Majeerteen;;;;;;;;x
+MAJ_ADJ;Majeerteen;Majeerteen;Majeerteen;;Majeerteen;;;;;;;;x
+MAJ_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+MAJ_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+MAJ_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+MAJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+MAJ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+MAJ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+MAJ_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MEK;Merina Kingdom;Royaume Merina;Merina Königreich;;Reino de Merina;;;;;;;;x
+MEK_ADJ;Merinian;Merina;Merina;;Merina;;;;;;;;x
+MEK_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+MEK_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+MEK_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+MEK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+MEK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+MEK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+MEK_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MOS;Mossi;Mossi;Mossi;;Mossi;;;;;;;;x
+MOS_ADJ;Mossi;Mossi;Mossi;;Mossinense;;;;;;;;x
+MOS_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+MOS_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+MOS_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+MOS_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+MOS_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+MOS_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+MOS_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+PEN;North Peru;Nord Pérou;Nordperu;;Perú del Norte;;;;;;;;x
+PEN_ADJ;Peruvian;Péruvienne;Peruanischer;;Norperuana;;;;;;;;x
+PEN_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+PEN_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+PEN_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+PEN_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+PEN_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+PEN_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+PEN_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+PEB;Peru-Bolivia Confederation;Confédération Pérou-Bolivie;Peru-Bolivien Konföderation;;Confederación Peru-Boliviana;;;;;;;;x
+PEB_ADJ;Bolivian;Bolivie;Bolivien;;Boliviana;;;;;;;;x
+PEB_liberal_2;Autonomista Nacional;Autonomista Nacional;Autonomista Nacional;;Autonomista Nacional;;;;;;;;x
+PEB_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+PEB_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+PEB_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+PEB_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+PEB_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+PEB_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+PEB_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+RGS;Rio Grande do Sul;Rio Grande do Sul;Rio Grande do Sul;;Rio Grande do Sul;;;;;;;;x
+RGS_ADJ;Riograndese;Rio Grande;Rio Grande;;Riograndense;;;;;;;;x
+RGS_liberal_2;Partido Rio Grande;Partido Rio Grande;Partido Rio Grande;;Partido Rio Grande;;;;;;;;x
+RGS_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;Partido Conservador;;;;;;;;x
+RGS_conservative_2;Partido Paulista;Partido Paulista;Partido Paulista;;Partido Paulista;;;;;;;;x
+RGS_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+RGS_reactionary;Partido Caramuru;Partido Caramuru;Partido Caramuru;;Partido Caramuru;;;;;;;;x
+RGS_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;Partido Radical;;;;;;;;x
+RGS_socialist;Partido Socialista;Partido socialiste;Partido Socialist;;Partido Socialista;;;;;;;;x
+RGS_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+RGS_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+RGR;Rio Grande Republic;République d'Rio Grande;Rio Grande Republik;;Republica del Rio Grande;;;;;;;;x
+RGR_ADJ;Riograndese;Nord;Nord;;Riograndense;;;;;;;;x
+RGR_liberal_2;Partido Progresista;Partido Progresista;Partido Progresista;;Partido Progresista;;;;;;;;x
+RGR_liberal_3;Partido Antireelecionista;Partido Antireelecionista;Partido Antireelecionista;;Partido Antireelecionista;;;;;;;;x
+RGR_liberal_4;Partido Accion Liberal;Partido Accion Liberal;Partido Accion Liberal;;Partido Accion Liberal;;;;;;;;x
+RGR_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+RGR_conservative_2;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;x
+RGR_conservative_3;Partido Moderado Liberal;Partido Moderado Liberal;Partido Moderado Liberal;;Partido Moderado Liberal;;;;;;;;x
+RGR_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+RGR_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+RGR_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+RGR_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+RGR_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+RGR_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+SHE;Shewa;Shewa;Shewa;;Shewa;;;;;;;;x
+SHE_ADJ;Shewan;Shewa;Shewa;Shewa;Shewa;;;;;;;;x
+SHE_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+SHE_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+SHE_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+SHE_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+SHE_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+SHE_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+SHE_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+PES;South Peru;Sud Pérou;Südperu;;Perú del Sur;;;;;;;;x
+PES_ADJ;Peruvian;Péruvienne;Peruanischer;;Sudperuana;;;;;;;;x
+PES_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+PES_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+PES_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+PES_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+PES_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+PES_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+PES_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+TAN;Tanzania;Tanzanie;Tansania;;Tanzania;;;;;;;;x
+TAN_ADJ;Tanzanian;Tanzanien;Tansanische;;Tanzana;;;;;;;;x
+TAN_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+TAN_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+TAN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+TAN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+TAN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+TAN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+TAN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+WAR;Warsangali Sultanate;Warsangali Sultanat;Warsangali Sultanat;;Sultanato Warsangali;;;;;;;;x
+WAR_ADJ;Warsangalian;Wansangali;Warsangali;;Warsangali;;;;;;;;x
+WAR_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+WAR_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+WAR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+WAR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+WAR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+WAR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+WAR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+YUC;Yucatan;Yucatan;Yucatan;;Yucatán;;;;;;;;x
+YUC_ADJ;Yucatan;Yucatan;Yucatan;;Yucateca;;;;;;;;x
+YUC_liberal_2;Partido Progresista;Partido Progresista;Partido Progresista;;Partido Progresista;;;;;;;;x
+YUC_liberal_3;Partido Antireelecionista;Partido Antireelecionista;Partido Antireelecionista;;Partido Antireelecionista;;;;;;;;x
+YUC_liberal_4;Partido Accion Liberal;Partido Accion Liberal;Partido Accion Liberal;;Partido Accion Liberal;;;;;;;;x
+YUC_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;x
+YUC_conservative_2;Partido Nacional;Partido Nacional;Partido Nacional;;Partido Nacional;;;;;;;;x
+YUC_conservative_3;Partido Moderado Liberal;Partido Moderado Liberal;Partido Moderado Liberal;;Partido Moderado Liberal;;;;;;;;x
+YUC_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;Partido Liberal;;;;;;;;x
+YUC_reactionary;Partido Reaccionario;Partido réactionnaire;Partido Reactionary;;Partido Reaccionario;;;;;;;;x
+YUC_anarcho_liberal;Partido Radical;Partido radical;Partido Radical;;Partido Radical;;;;;;;;x
+YUC_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;x
+YUC_communist;Partido Comunista;Partido communiste;Partido Communist;;Partido Comunista;;;;;;;;x
+YUC_fascist;Partido Fascista;Partido fasciste;Partido Fascist;;Partido Fascista;;;;;;;;x
+SOM;Somalia;Somalie;Somalia;;Somalia;;;;;;;;x
+SOM_ADJ;Somalian;Somalien;Somalier;;Somalia;;;;;;;;x
+SOM_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+SOM_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+SOM_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+SOM_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+SOM_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+SOM_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+SOM_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+IBE;Iberian Union;Union ibérique;Iberische Union;;Unión Ibérica;;;;;;;;x
+IBE_ADJ;Iberian;Ibérien;Iberische;;Ibérica;;;;;;;;x
+IBE_conservative;Partido Moderado;Partido Moderado;Partido Moderado;;Partido Moderado;;;;;;;;;;;;x
+IBE_liberal;Partido Progresista;Partido Progresista;Partido Progresista;;Partido Progresista;;;;;;;;;;;;x
+IBE_reactionary;Partido Divisionista;Partido Divisionista;Partido Divisionista;;Partido Divisionista;;;;;;;;;;;;x
+IBE_liberal_2;Republicano Federal;Republicano Federal;Republicano Federal;;Republicano Federal;;;;;;;;;;;;x
+IBE_liberal_3;Unión Republicana;Unión Republicana;Unión Republicana;;Unión Republicana;;;;;;;;;;;;x
+IBE_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;;;;;;x
+IBE_communist;Federación Regional;Federación Regional;Federación Regional;;Federación Regional;;;;;;;;;;;;x
+IBE_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;Partido Radical;;;;;;;;;;;;x
+IBE_fascist;Nova Falange;Nova Falange;Nova Falange;;Nova Falange;;;;;;;;;;;;x
+LNG;Loango;;;;Luango;;;;;;;;x
+LNG_ADJ;Loango;;;;Luangesa;;;;;;;;x
+LNG_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+LNG_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+LNG_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+LNG_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+LNG_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+LNG_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+LNG_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+KNG;Kongo Kingdom;Royaume de Kongo;Königreich Kongo;;Reino del Congo;;;;;;;;x
+KNG_ADJ;Kongolese;;;;Congoleña;;;;;;;;x
+KNG_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+KNG_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+KNG_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+KNG_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+KNG_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+KNG_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+KNG_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+TYO;Tyo Kingdom;;;;Reino Tio;;;;;;;;x
+TYO_ADJ;Tyo;;;;Tionesa;;;;;;;;x
+TYO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+TYO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+TYO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+TYO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+TYO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+TYO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+TYO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+KBA;Kuba Kingdom;;;;Reino Kuba;;;;;;;;x
+KBA_ADJ;Kuban;;;;Kubana;;;;;;;;x
+KBA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+KBA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+KBA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+KBA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+KBA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+KBA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+KBA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+LBA;Luba Kingdom;Royaume de Luba;Königreich Luba;;Reino Luba;;;;;;;;x
+LBA_ADJ;Luban;;;;Lubana;;;;;;;;x
+LBA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+LBA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+LBA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+LBA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+LBA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+LBA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+LBA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+LND;Lunda Empire;Empire d'Lunda;Lunda Reich;;Imperio Lunda;;;;;;;;x
+LND_ADJ;Lundan;;;;Lundesa;;;;;;;;x
+LND_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+LND_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+LND_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+LND_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+LND_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+LND_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+LND_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+KAZ;Kazembe Kingdom;Royaume Kazembe;Kazembe Königreich;;Reino de Kazembe;;;;;;;;x
+KAZ_ADJ;Kazembe;;;;Kazembe;;;;;;;;x
+KAZ_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+KAZ_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+KAZ_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+KAZ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+KAZ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+KAZ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+KAZ_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+ROZ;Rozvi Empire;Empire d' Rozwi;Rozwi Reich;;Imperio Rozvi;;;;;;;;x
+ROZ_ADJ;Rozvian;;;;Rozvina;;;;;;;;x
+ROZ_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+ROZ_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+ROZ_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+ROZ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+ROZ_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+ROZ_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+ROZ_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+UGA;Uganda;;;;Uganda;;;;;;;;x
+UGA_ADJ;Ugandan;;;;Ugandesa;;;;;;;;x
+UGA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+UGA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+UGA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+UGA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+UGA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+UGA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+UGA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BUG;Buganda;;;;Buganda;;;;;;;;x
+BUG_ADJ;Bugandan;;;;Bugandesa;;;;;;;;x
+BUG_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BUG_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BUG_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BUG_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BUG_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BUG_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BUG_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BYO;Bunyoro;;;;Bunyoro;;;;;;;;x
+BYO_ADJ;Bunyoro;;;;Bunyoro;;;;;;;;x
+BYO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BYO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BYO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BYO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BYO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BYO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BYO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+NKO;Nkore;;;;Nkore;;;;;;;;x
+NKO_ADJ;Nkore;;;;Nkore;;;;;;;;x
+NKO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+NKO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+NKO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+NKO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+NKO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+NKO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+NKO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+TOR;Toro;;;;Toro;;;;;;;;x
+TOR_ADJ;Toro;;;;Toro;;;;;;;;x
+TOR_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+TOR_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+TOR_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+TOR_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+TOR_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+TOR_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+TOR_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+RWA;Rwanda;;;;Ruanda;;;;;;;;x
+RWA_ADJ;Rwandan;;;;Ruandesa;;;;;;;;x
+RWA_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+RWA_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+RWA_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+RWA_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+RWA_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+RWA_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+RWA_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+KWE;Karagwe;;;;Karagüe;;;;;;;;x
+KWE_ADJ;Karagwean;;;;Karagüésa;;;;;;;;x
+KWE_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+KWE_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+KWE_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+KWE_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+KWE_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+KWE_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+KWE_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+BDI;Burundi;;;;Burundí;;;;;;;;x
+BDI_ADJ;Burundinian;;;;Burundina;;;;;;;;x
+BDI_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+BDI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+BDI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+BDI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+BDI_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+BDI_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+BDI_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+SRI;Siak Sri;;;;Siak Sri;;;;;;;;x
+SRI_ADJ;Siak;;;;Siak;;;;;;;;x
+SRI_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+SRI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+SRI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+SRI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+SRI_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+SRI_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+SRI_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MAL;Malaysia;;;;Malasia;;;;;;;;x
+MAL_ADJ;Malaysian;;;;Malaya;;;;;;;;x
+MAL_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+MAL_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+MAL_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+MAL_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+MAL_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+MAL_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+MAL_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+RJU;Juliana Republic;;;;Republica Juliana;;;;;;;;x
+RJU_ADJ;Julianese;;;;Julianense;;;;;;;;x
+RJU_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+RJU_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+RJU_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+RJU_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+RJU_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+RJU_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+RJU_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+GRN;Greenland;;;;Groelandia;;;;;;;;x
+GRN_ADJ;Greenland;;;Groelandés;;;;;;;;x
+GRN_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+GRN_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+GRN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+GRN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+GRN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+GRN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+GRN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+TOK;Tokugawa Shogunate;;;;Shogunato Tokugawa;;;;;;;;x
+TOK_ADJ;Shogun;;;;Shogun;;;;;;;;x
+TOK_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+TOK_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+TOK_reactionary;The Shogun Faction;Faction Shogun;Die Shogun Fraktion;;La Facción del Shogun;;;;;;;;x
+TOK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+TOK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+TOK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+TOK_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MAE;Maeda Daimyo;;;;Daimyo Maeda;;;;;;;;x
+MAE_ADJ;Japanese;;;;Japonesa;;;;;;;;x
+MOU;Mori Daimyo;;;;Daimyo Mouri;;;;;;;;x
+MOU_ADJ;Japanese;;;;Japonesa;;;;;;;;x
+RYU;Satsuma;;;;Satsuma;;;;;;;;x
+RYU_ADJ;Japanese;;;;Japonesa;;;;;;;;x
+DAT;Date Daimyo;;;;Daimyo Date;;;;;;;;x
+DAT_ADJ;Japanese;;;;Japonesa;;;;;;;;x
+DAT_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+DAT_liberal;The Imperial Faction;Faction Imperial;Die Kaiser Fraktion;;La Facción Imperial;;;;;;;;x
+DAT_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+DAT_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+DAT_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+DAT_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+DAT_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+EZO_absolute_monarchy;Matsume Daimyo;;;;Daimyo Matsume;;;;;;;;x
+EZO_prussian_constitutionalism;Matsume Daimyo;;;;Daimyo Matsume;;;;;;;;x
+EZO;Ezo Republic;;;;Republica de Ezo;;;;;;;;x
+EZO_ADJ;Ainu;;;;Ainu;;;;;;;;x
+EZO_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;x
+EZO_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;x
+EZO_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;x
+EZO_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;x
+EZO_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Socialista;;;;;;;;x
+EZO_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Comunista;;;;;;;;x
+EZO_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Fascista;;;;;;;;x
+MGE;Mongol Empire;;;;Imperio Mongol;;;;;;;;x
+MGE_ADJ;Mongolian;Mongole;Mongolisch;;Mongola;;;;;;;;;x

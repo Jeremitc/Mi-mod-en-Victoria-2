@@ -1,0 +1,126 @@
+EVTNAME95;;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_PRG_URU;War of the Triple Alliance;Guerre de la Triple Alliance;Tripel Allianz Krieg;;Guerra de la Triple Alianza;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_FRA_MEX;$SECOND$ War of the $FIRST$ Intervention;$FIRST$ intervention au Mexique;$FIRST$ intervention in Mexiko;;Guerra de Intervención $FIRST$;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME_TOK_JAP;The Boshin War;Guerre Boshin;Boshin Krieg;;Guerra Boshin;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TOK_JAP;The Boshin War;Guerre Boshin;Boshin Krieg;;Guerra Boshin;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_BRZ_RJU;$ORDER$ Farroupilha Revolution;$ORDER$ Guerre des Farrapos;$ORDER$ Farrapen-Revolution;;$ORDER$ Guerra de los Farrapos;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_BRZ_RGS;$ORDER$ Farroupilha Revolution;$ORDER$ Guerre des Farrapos;$ORDER$ Farrapen-Revolution;;$ORDER$ Guerra de los Farrapos;;;;;;;;x
+AGRESSION_WAR_GUNBOAT_NAME_CHI_ENG;$ORDER$ Opium War;;;;$ORDER$ Guerra del Opio;;;;;;;;x
+babylonian_tech_school;Hanging Gardens Ideology, Culture & Power;Idéologie, Culture et Pouvoir des Jardins Suspendus;Hängende Gärten Ideologie, Kultur und Macht;;Ideología, Cultura y Poder de Jardines Colgantes;;;;;;;;;x
+demand_payment_cb;Demand Payment;demande de paiement;Zahlung verlangen;;Demanda de pago;;;;;;;;x
+demand_payment_cb_desc;Force them to pay an amount of money for 5 years to us.;Les forcer à nous payer une somme pendant 5 ans.;Zwingen Sie sie, 5 Jahre lang einen Geldbetrag an uns zu zahlen.;;Forzalos a pagarnos una cantidad de dinero durante 5 años.;;;;;;;;x
+demand_payment_cb_setup;Will force them to start a payment to us.;;;;Los forzará a empezar a pagarnos.;;;;;;;;x
+demand_payment_cb_short;Demand Payment;;;;Demanda de pago;;;;;;;;x
+install_fascist_gov_cb;Install fascism;;;;Instaurar el fascismo;;;;;;;;x
+install_fascist_gov_cb_desc;Install the fascist government.;;;;Instalar un gobierno fascista.;;;;;;;;x
+install_fascist_gov_cb_setup;Install the fascist government.;;;;Instalar un gobierno fascista.;;;;;;;;x
+install_fascist_gov_cb_short;Install fascism.;;;;Instaurar fascismo.;;;;;;;;x
+po_install_fascist_gov_type;Install fascist government;;;;Instaurar gobierno fascista;;;;;;;;x
+install_democracy_gov_cb;Install democracy;;;;Instaurar democracia;;;;;;;;x
+install_democracy_gov_cb_desc;Install a democratic government.;;;;Instalar un gobierno democrático.;;;;;;;;x
+install_democracy_gov_cb_setup;Install a democratic government.;;;;Instaurar un gobierno democrático,;;;;;;;;x
+install_democracy_gov_cb_short;Install democracy.;;;;Instalar democracia.;;;;;;;;x
+po_install_democracy_gov_type;Install democratic government;;;;Instaurar la democracia;;;;;;;;x
+warlord_boost;Warlord;;;;Señor de la Guerra;;;;;;;;x
+warlord_boost_desc;Your ambition is strong, the world knows your power, it's time to create an empire.;;;;Tu ambición es fuerte, el mundo conoce tu poder, es hora de crear un imperio.;;;;;;;;x
+high_development_boost;High Developer;;;;Gran Desarrollador;;;;;;;;x
+high_development_boost_desc;Your focus on development is getting successes, you are at the top of technology.;;;;Tu enfoque en el desarrollo tecnológico es muy exitoso, estas en la cima tecnológica.;;;;;;;;x
+commerce_point_boost;Comerce Point;;;;Centro de Comercio;;;;;;;;x
+commerce_point_boost_desc;Your geographycal position is the best for making bussines and trade, we are the center of the world.;;;;Tu posición geográfica es la mejor para hacer negocios e intercambios, estas en el centro del mundo.;;;;;;;;x
+failed_state_nerf;Failed State;;;;Estado Fallido;;;;;;;;x
+failed_state_nerf_desc;The country is at crisis, the people is angry and the internal war seems unstoppable.;;;;La nación está en crisis, la gente esta molesta y la guerra interna parece no acabar.;;;;;;;;x
+kiel_owner_boost;Kiel Canal Owner;;;;Dueño del Canal de Kiel;;;;;;;;x
+kiel_owner_boost_desc;The Kiel Canal is under our control.;;;;El Canal de Kiel está bajo nuestro control;;;;;;;;x
+panama_owner_boost;Panama Canal Owner;;;;Dueño del Canal de Panamá;;;;;;;;x
+panama_owner_boost_desc;The Panama Canal is under our control.;;;;El Canal de Panamá está bajo nuestro control-;;;;;;;;x
+suez_owner_boost;Suez Canal Owner;;;;Dueño del Canal de Suez;;;;;;;;x
+suez_owner_boost_desc;The Suez Canal is under our control.;;;;El Canal de Suez está bajo nuestro control.;;;;;;;;x
+new_land_discovered;New Land Discovered;;;;Territorio nuevo descubierto;;;;;;;;x
+new_land_discovered_desc;This is a new land full of opportunities.;;;;Este es un nuevo territorio lleno de oportunidades.;;;;;;;;x
+nationalist_agitation;Nationalist agitation;;;;Agitación nacionalista;;;;;;;;x
+nationalist_agitation_desc;Nationalist sentiments are growing.;;;;Los sentimientos nacionalistas están creciendo.;;;;;;;;x
+triple_alianza_learning;Triple Alianza learnings;;;;Enseñanzas de la guerra;;;;;;;;;x
+triple_alianza_learning_desc;The memories of our mistakes, crisis, hopes and crimes will teach us a better way to go forward.;;;;Las memorias de nuestros errores, crisis, esperanzas y crimenes nos enseñarán una mejor manera de avanzar.;;;;;;;;x
+union_tech_boost;Union tech advance;;;;Unificación tecnológica;;;;;;;;x
+union_tech_boost_desc;By uniting the country and our schools and labs, our technological progress has increased.;;;;Al unificar las escuelas y laboratorios de la nacion nuestro progreso tecnológico se ha incrementado.;;;;;;;;x
+tratado_de_igualdad;Tratado de Igualdad;Tratado de Igualdad;Tratado de Igualdad;;Tratado de Igualdad;;;;;;;;x
+tratado_de_igualdad_desc;Every person in the Empire is equal to the law and has the same opportunities.;;;;Toda persona en el Imperio es igual ante la ley y tiene las mismas oportunidades, derechos y obligaciones.;;;;;;;;x
+the_babylon_tower;The Babylon Tower;;;;La Torre de Babilonia;;;;;;;;x
+the_babylon_tower_desc;The legendary tower is finished, hanging gardens, blue shining walls, the connection between heavens and us.;;;;La legendaria torre está terminada, y, con jardines colgantes y muros de azul brillante, nos conectará con los cielos.;;;;;;;;x
+the_good_decision;The Good Decision;;;;Una buena decisión;;;;;;;;x
+the_good_decision_desc;The world knows we make good things and good decisions.;;;;El mundo sabe que aquí hacemos bien las cosas y tomamos buenas decisiones.;;;;;;;;x
+minority_exodus;Minority exodus;;;;Éxodo de minorías;;;;;;;;x
+minority_exodus_desc;Minority cultures are leaving the country.;;;;Las culturas minoritarias estan dejando el pais;;;;;;;;x
+government_restoration;Government restoration;;;;Restauración del gobierno;;;;;;;;x
+government_restoration_desc;A new government has been established.;;;;Un nuevo gobierno ha sido establecido;;;;;;;;x
+northern_train;Northern train;;;;Tren del norte;;;;;;;;x
+northern_train_desc;Our train system is improving the industry.;;;;Nuestro sistema ferroviario está ayudando a mejorar la industria.;;;;;;;;x
+finland_identity;Finland identity;;;;Identidad finesa;;;;;;;;x
+finland_identity_desc;Our people is adapting the finish culture.;;;;Nuestra población esta adoptando las culturas finesas.;;;;;;;;x
+sigurosson_legacy;Sigurosson legacy;;;;El legado de Sigurosson;;;;;;;;x
+sigurosson_legacy_desc;Our school system has been improved, our culture won't be lost.;;;;Nuestro sistema educativo ha sido mejorado, nuestra cultura nunca se perderá.;;;;;;;;x
+expanded_seas;Expanded seas;;;;Expansión de los mares;;;;;;;;x
+expanded_seas_desc;Our naval force is the ruler of the seas, we can use the resourses and control the trade routes.;;;;Nuestras fuerzas navales son las dominantes de la región, podemos aprovechar los recursos y rutas de comercio.;;;;;;;;x
+national_identity;National identity;;;;Identidad nacional;;;;;;;;x
+national_identity_desc;We are enforcing the culture assimilation in our country.;;;;Estamos reforzando la asimilación cultural en nuestra nación.;;;;;;;;x
+east_india_trade;East India Trade Company;;;;Compañia de las Indias Occidentales;;;;;;;;x
+east_india_trade_desc;The East India Company is working on our East Indian colonies.;;;;La Compañia de las Indias Occidentales está trabajando en nuestras colonias.;;;;;;;;x
+immigrant_destiny;Immigrant destiny;;;;Destino de los migrantes;;;;;;;;x
+immigrant_destiny_desc; Our country is attracting immigrant from the entire world.;;;;Nuestro pais está atrayendo inmigrantes de todo el mundo.;;;;;;;;x
+industrial_park;Industrial parks;;;;Parques industriales;;;;;;;;x
+industrial_park_desc;Industrial zones has been built in the city.;;;;Zonas industriales están siendo construidas en la ciudad.;;;;;;;;x
+seas_controller;Seas controller;;;;Dueño de los mares;;;;;;;;x
+seas_controller_desc;Our naval force is the ruler of the sea, we have better naval tactics and organisation.;;;;Nuestra fuerza naval es la dueña de los mares, tenemos mejores tácticas y organización.;;;;;;;;x
+tech_advance;Tech advance;;;;Avance tecnológico;;;;;;;;x
+tech_advance_desc;We are focusing on improving our technology.;;;;Nos estamos enfocando en la mejora tecnológica.;;;;;;;;x
+neutrality_pact;Neutrality pact;;;;Pacto de neutralidad;;;;;;;;x
+neutrality_pact_desc; We are neutral and pacifist.;;;;Somos neutrales y pacificos.;;;;;;;;x
+oligarchy_rule;Oligarchy rules;;;;Reglas de la oligarquía;;;;;;;;x
+oligarchy_rule_desc;The rich strata rules on the country and decide the action route.;;;;La clase alta domina el país y decide la ruta de acción.;;;;;;;;x
+people_government;People government;;;;Gobierno del pueblo;;;;;;;;x
+people_government_desc;The government is focusing on the poor strata needs.;;;;El gobierno se enfoca en las necesidades de la clase baja.;;;;;;;;x
+western_education_boost;Western education boost;;;;Potenciamiento de la educación occidental;;;;;;;;x
+western_education_boost_desc;We are learning about the rest of the world and using a western education system.;;;;Estamos aprendiendo acerca del resto del mundo y su sistema educativo occidental.;;;;;;;;x
+fertile_farmlands;Fertile farmlands;;;;Tierras fértiles;;;;;;;;x
+fertile_farmlands_desc;The land of this province is fertile and useful for all types of agriculture.;;;;La tierra de esta provincia es fértil y útil para todo tipo de agricultura.;;;;;;;;x
+loot_of_resourses;Loot of resourses;;;;Lote de recursos;;;;;;;;x
+loot_of_resourses_desc;Our country has a lot of mine and farm resourses, the people is happy for living here.;;;;Se han descubierto montones de recursos minerales y cultivos, las personas están felices de vivir aquí.;;;;;;;;x
+exotic_goods_af;Exotic goods trade;;;;Comercio exotico;;;;;;;;x
+exotic_goods_af_desc;Our country is trading exotic goods.;;;;Nuestra nación hace negocios con recursos exóticos.;;;;;;;;x
+new_hammurabi_code;New Code of Hammurabi;;;;Nuevo Codigo de Hammurabi;;;;;;;;x
+new_hammurabi_code_desc;The New Code of Hammurabi is the law of our kingdom.;;;;El Codigo de Hammurabi ha sido adaptado y es ley en nuestro reino.;;;;;;;;x
+religious_war;Religious war;;;;Guerra religiosa;;;;;;;;x
+religious_war_desc; God is with us in this religious war.;;;;Si Dios está con nosotros, nadie podrá vencernos en esta cruzada religiosa.;;;;;;;;x
+new_world_boost;New Worlder;;;;Nuevo Mundo;;;;;;;;x
+new_world_boost_desc;This is a country of the New World.;;;;Nuestra nacion es parte del Nuevo Mundo.;;;;;;;;x
+military_order;Military Order;;;;Orden Militar;;;;;;;;x
+military_order_desc;Our army has better military training and tactics;;;;Nuestro ejercito tiene mejor entrenamiento y tacticas;;;;;;;;x
+great_master;Grand Master;;;;Gran Maestro;;;;;;;;x
+great_master_desc;You have become the Grand Master of the game, your skills are superior and you have shown your might.;;;;Te has convertido en el Gran Maestro del juego, tus habilidades son superiores y has demostrado tu poderío.;;;;;;;;x
+conscript_on;Conscription Allowed;;;;Servicio Militar Establecido;;;;;;;;x
+conscript_on_desc;The conscript system is allowed. Now you have more reserves to mobilize.;;;;El sistema de conscriptos está establecido. Ahora dispones de más reservas para movilizar.;;;;;;;;x
+confederated_conscript_on;Conscription Allowed;;;;Servicio Militar Establecido;;;;;;;;x
+confederated_conscript_on_desc;The conscript system is allowed. Now you have more reserves to mobilize in this war.;;;;El sistema de conscriptos está establecido. Ahora dispones de más reservas para movilizar en esta guerra.;;;;;;;;x
+child_labor_on;Child Labour Allowed;;;;Trabajo Infantíl Permitido;;;;;;;;x
+child_labor_on_desc;Child labour is allowed and is an important part of our economy, although it will affect educational development.;;;;El trabajo infantil está permitido y es parte importante de nuestra economía, aunque afectará el desarrollo educativo.;;;;;;;;x
+japanese_opening;Japanese Opening;;;;Apertura de Japón;;;;;;;;x
+japanese_opening_desc;Japan has been opened for global trade and there is no longer isolationism.;;;;Japón ha sido abierto para el comercio global y ya no hay aislacionismo.;;;;;;;;x
+new_philosophy;New Philosophy;;;;Nueva Filosofía;;;;;;;;x
+new_philosophy_desc;We have accepted new philosophies.;;;;Hemos aceptado nuevas filosofías.;;;;;;;;x
+tokugawa_philosophy;Tokugawa Philosophy;;;;Filosofía Tokugawa;;;;;;;;x
+tokugawa_philosophy_desc;We have stayed with the ancient philosophies.;;;;Nos hemos quedado con las antiguas filosofías.;;;;;;;;x
+local_nationalist_agitation;Nationalist Agitation;;;;Agitación Nacionalista;;;;;;;;x
+local_nationalist_agitation_desc;Nationalism begins to spread throughout this province.;;;;El nacionalismo comienza a esparcirse por esta provincia.;;;;;;;;x
+emperor_support;Supporting the Emperor;;;;Apoyando al Emperador;;;;;;;;x
+emperor_support_desc;We are supporting the Emperor and his government.;;;;Estamos apoyando al Emperador y su gobierno.;;;;;;;;x
+japan_trade_companies;Japanese Trade Companies;;;;Compañias de Comercio Japonesas;;;;;;;;x
+japan_trade_companies_desc;There are foreign trade companies in our lands;;;;Hay compañías de comercio extranjero en nuestras tierras.;;;;;;;;x
+brave_army;Brave Army;;;;Ejército Valiente;;;;;;;;x
+brave_army_desc;Our soldiers are ready to die in the name of the country and are ready to fight against any opponent.;;;;Nuestros soldados están dispuestos a morir en nombre de la patria y están listos para el combate contra cualquier oponente.;;;;;;;;x
+chinese_philosophy;Chinese Philosophy;;;;Filosofía China;;;;;;;;x
+chinese_philosophy_desc;We have stayed with the ancient philosophies and traditions.;;;;Nos hemos quedado con las antiguas filosofías y tradiciones.;;;;;;;;x
+king_cotton_nerf;Former King Cotton;;;;Ex-Rey del algodon;;;;;;;;x
+king_cotton_nerf_desc;Due to our mismanagement of resources during the war, we now lack them.;;;;Debido a nuestra mala gestión de los recursos durante la guerra, ahora carecemos de ellos.;;;;;;;;x
+scramble_africa;Scramble for Africa;;;;Reparto de África;;;;;;;;x
+scramble_africa_desc;This country is participating in the scramble of Africa;;;;Este país está participando en el reparto de África.;;;;;;;;x
+x;;;;;;;;;;;;;x
